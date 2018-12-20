@@ -1,0 +1,30 @@
+F:\Week 6\TicketyTac\TicketyTac\bin\Debug\TicketyTac.exe.config
+F:\Week 6\TicketyTac\TicketyTac\bin\Debug\TicketyTac.exe
+F:\Week 6\TicketyTac\TicketyTac\bin\Debug\TicketyTac.pdb
+F:\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csprojAssemblyReference.cache
+F:\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.frmTicketyTac.resources
+F:\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.Properties.Resources.resources
+F:\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csproj.GenerateResource.cache
+F:\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csproj.CoreCompileInputs.cache
+F:\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.exe
+F:\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.pdb
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\bin\Debug\TicketyTac.exe.config
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\bin\Debug\TicketyTac.exe
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\bin\Debug\TicketyTac.pdb
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csprojAssemblyReference.cache
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.frmTicketyTac.resources
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.Properties.Resources.resources
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csproj.GenerateResource.cache
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csproj.CoreCompileInputs.cache
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.exe
+C:\Users\mrjay\Desktop\USB Final\Week 6\TicketyTac\TicketyTac\obj\Debug\TicketyTac.pdb
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\bin\Debug\TicketyTac.exe.config
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\bin\Debug\TicketyTac.exe
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\bin\Debug\TicketyTac.pdb
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csprojAssemblyReference.cache
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\obj\Debug\TicketyTac.frmTicketyTac.resources
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\obj\Debug\TicketyTac.Properties.Resources.resources
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csproj.GenerateResource.cache
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\obj\Debug\TicketyTac.csproj.CoreCompileInputs.cache
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\obj\Debug\TicketyTac.exe
+E:\Code\VisualStudio\CSharp\TicketyTac\TicketyTac\obj\Debug\TicketyTac.pdb
