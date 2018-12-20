@@ -1,2 +1,2 @@
 # TicketyTac
-A simple Tic-Tac-Toe GAme
+A simple Tic-Tac-Toe Game.
